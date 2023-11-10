@@ -1,0 +1,41 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "welcome to the new blog",
+      "body": "rolrem iupsumrolrem iupsumrolrem iupsumrolrem iupsumrolrem iupsumrolrem iupsumrolrem iupsumrolrem iupsumrolrem iupsumrolrem iupsumrolrem iupsumrolrem iupsumrolrem iupsumrolrem iupsumrolrem iupsum",
+      "tags": [
+        "webdev",
+        "coding",
+        "news"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "top 5 CSS tips",
+      "body": "rolrem iupsumrolrem iupsumrolrem iupsumrolrem iupsumrolrem iupsumrolrem iupsumrolrem iupsumrolrem iupsumrolrem iupsumrolrem iupsumrolrem iupsumrolrem iupsumrolrem iupsumrolrem iupsumrolrem iupsum",
+      "tags": [
+        "css",
+        "webdev",
+        "coding"
+      ]
+    },
+    {
+      "title": "test",
+      "body": "test",
+      "tags": [
+        "rtet"
+      ],
+      "id": 3
+    },
+    {
+      "title": "afdsa",
+      "body": "asfads",
+      "tags": [
+        "fddsf",
+        "asdf"
+      ],
+      "id": 4
+    }
+  ]
+}
