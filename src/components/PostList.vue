@@ -15,9 +15,6 @@ import {computed, onMounted, onUnmounted, onUpdated} from "vue";
 export default {
   components: { SinglePost },
   props: ['posts'],
-  setup(props){
-
-  }
 }
 </script>
 
